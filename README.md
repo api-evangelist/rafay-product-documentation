@@ -1,38 +1,44 @@
 # Rafay Product Documentation (rafay-product-documentation)
-Here you will find product documentation, API structure, Kubernetes insights and resources to help get you up to speed with Kubernetes and AI solutions quickly 
+Rafay product documentation, API references, Kubernetes platform guides, and resources covering the Rafay Kubernetes Operations Platform (KOP), GPU PaaS, AI workloads, and ecosystem integrations.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/rafay-product-documentation/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - API
+ - Kubernetes, Cloud Native, GPU, AI, Platform
 
 ## Timestamps
 
-- **Created:** 2025-07-10 
-- **Modified:** 2025-07-10 
+- **Created:** 2025-07-10
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Rafay Product Documentation
-Here you will find product documentation, API structure, Kubernetes insights and resources to help get you up to speed with Kubernetes and AI solutions quickly 
+Rafay product documentation hub covering Kubernetes Operations Platform, MLOps, GPU PaaS, AI workloads, Token Factory, and ecosystem integrations.
 
-**Human URL:** [ https://rafay.co/docs/]( https://rafay.co/docs/)
-
+**Human URL:** [https://docs.rafay.co/](https://docs.rafay.co/)
 
 #### Tags:
 
- - API
+ - Documentation, Kubernetes, AI
 
 #### Properties
 
-- [Documentation]( https://rafay.co/docs/)
+- [Documentation](https://docs.rafay.co/)
+- [GettingStarted](https://docs.rafay.co/learn/quickstart/)
+- [Blog](https://rafay.co/the-kubernetes-current-blog/)
+
+## Common
+
+- [Documentation](https://docs.rafay.co/)
+- [SignUp](https://rafay.co/contact-us/)
 
 ## Maintainers
 
