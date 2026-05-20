@@ -38,6 +38,10 @@ apis:
       - type: Blog
         url: https://rafay.co/the-kubernetes-current-blog/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/RafaySystems
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/rafay-systems
   - type: Documentation
     url: https://docs.rafay.co/
   - type: SignUp
