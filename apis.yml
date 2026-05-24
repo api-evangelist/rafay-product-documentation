@@ -46,6 +46,8 @@ common:
     url: https://docs.rafay.co/
   - type: SignUp
     url: https://rafay.co/contact-us/
+  - type: LLMsTxt
+    url: https://rafay.co/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
