@@ -44,9 +44,9 @@ common:
     url: https://www.linkedin.com/company/rafay-systems
   - type: Documentation
     url: https://docs.rafay.co/
-  - type: SignUp
+  - type: Signup
     url: https://rafay.co/contact-us/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://rafay.co/llms.txt
 maintainers:
   - FN: Kin Lane
