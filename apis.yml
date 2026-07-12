@@ -38,6 +38,8 @@ apis:
       - type: Blog
         url: https://rafay.co/the-kubernetes-current-blog/
 common:
+  - type: DomainSecurity
+    url: security/rafay-product-documentation-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/RafaySystems
   - type: LinkedIn
