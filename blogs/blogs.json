@@ -2,18 +2,11 @@
   "repo": "rafay-product-documentation",
   "feeds": [
     {
-      "source": "https://rafay.co/the-kubernetes-current-blog/",
-      "saved": 0,
-      "error": "HTTP 404; used https://rafay.co/blog/ instead, no in-window posts"
-    },
-    {
-      "source": "https://rafay.co/blog/",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
+      "source": "https://docs.rafay.co/learn/quickstart/",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-27T13:04:03Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 3,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
