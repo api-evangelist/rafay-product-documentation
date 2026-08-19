@@ -30,7 +30,7 @@ created: '2025-07-10'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/rafay-product-documentation/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: rafay-product-documentation:rafay-product-documentation
     name: Rafay Product Documentation
