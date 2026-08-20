@@ -22,6 +22,12 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rafay-product-documentation.png
 tags:
   - Kubernetes
+  - Cloud-Native
+  - GPU
+  - Artificial Intelligence
+  - Platform
+tags_raw:
+  - Kubernetes
   - Cloud Native
   - GPU
   - AI
@@ -39,6 +45,10 @@ apis:
       MLOps, GPU PaaS, AI workloads, Token Factory, and ecosystem integrations.
     humanURL: https://docs.rafay.co/
     tags:
+      - Documentation
+      - Kubernetes
+      - Artificial Intelligence
+    tags_raw:
       - Documentation
       - Kubernetes
       - AI
