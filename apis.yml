@@ -71,6 +71,8 @@ apis:
       - type: Blog
         url: https://rafay.co/the-kubernetes-current-blog/
 common:
+  - type: Website
+    url: https://www.rafay.co/
   - type: DomainSecurity
     url: security/rafay-product-documentation-domain-security.yml
   - type: GitHubOrganization
