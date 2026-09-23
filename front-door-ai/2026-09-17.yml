@@ -1,0 +1,31 @@
+# Front Door AI Index — rafay-product-documentation — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: rafay-product-documentation
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.rafay.co
+  final_host: rafay.co
+  ownership: own
+  owner: rafay-product-documentation
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 120
+  host_score: 120
+  density: 50.48
+  words: 2377
+  tiers:
+    agentic: 6
+    core: 113
+    model: 1
+  ambiguous: 4
+  top_terms:
+    AI: 102
+    ML: 9
+    inference: 6
+    automation: 3
+    gen ai: 2
+    OpenAI: 1
+    agent: 1
