@@ -71,6 +71,12 @@ apis:
       - type: Blog
         url: https://rafay.co/the-kubernetes-current-blog/
 common:
+  - type: Plans
+    url: plans/rafay-product-documentation-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/rafay-product-documentation-rate-limits.yml
+  - type: FinOps
+    url: finops/rafay-product-documentation-finops.yml
   - type: Website
     url: https://www.rafay.co/
   - type: DomainSecurity
